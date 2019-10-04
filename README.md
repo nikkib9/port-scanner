@@ -2,4 +2,4 @@
 
 Self-written nmap code
 
-Work Direction:  Enable Multithreading.
+ToDo:  Enable Multithreading.
